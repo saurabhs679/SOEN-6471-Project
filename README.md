@@ -13,7 +13,7 @@ Team Members:
 Abhimanyu Sharma ()<br>
 Kirthana Senguttuvan (40189746)<br>
 Saurabh Sharma (40226298)<br>
-Urvish Rupeshbhai Tanti(40197508)<br>
+Urvish Rupeshbhai Tanti (40197508)<br>
 Vaibhav	Sharma (40197697)<br>
 
 # Roles and Responsibilities
